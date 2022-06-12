@@ -1,0 +1,3 @@
+user: puerpjmx_bkd
+clave:VZ#2022?pr
+bd: puerpjmx_bkboon

@@ -1,0 +1,21 @@
+ iniciada sesion 05-31-2022 12:49:50 pm desde: 190.205.140.99
+ Se intenta ingresar directamente : 05-31-2022 12:49:59 pm desde: 190.205.140.99
+ iniciada sesion 05-31-2022 12:49:59 pm desde: 190.205.140.99
+ iniciada sesion 05-31-2022 12:50:06 pm desde: 190.205.140.99
+ iniciada sesion 05-31-2022 12:50:08 pm desde: 190.205.140.99
+ Se intenta ingresar con Necro y clave: 061083 *desde: 05-31-2022 12:50:08 pm desde: 190.205.140.99
+ Ingreso exitoso Necro en: 05-31-2022 12:50:08 pm desde: 190.205.140.99 
+ Se cierra sesion : 05-31-2022 12:50:18 pm desde: 190.205.140.99 
+ iniciada sesion 05-31-2022 12:50:19 pm desde: 190.205.140.99
+ iniciada sesion 05-31-2022 01:05:14 pm desde: 190.205.140.99
+ Se intenta ingresar : 05-31-2022 01:05:24 pm desde: 190.205.140.99
+ iniciada sesion 05-31-2022 01:05:24 pm desde: 190.205.140.99
+ iniciada sesion 05-31-2022 01:05:29 pm desde: 190.205.140.99
+ Se intenta ingresar con Necro y clave: 061083 *desde: 05-31-2022 01:05:29 pm desde: 190.205.140.99
+ Ingreso exitoso Necro en: 05-31-2022 01:05:29 pm desde: 190.205.140.99 
+ ingreso al menu con Necro  en: 05-31-2022 01:05:29 pm desde: 190.205.140.99
+ Ingresando a Carga de Productos con  usario:Necro  en: 05-31-2022 01:05:32 pm desde: 190.205.140.99
+ ingreso al menu con Necro  en: 05-31-2022 01:05:34 pm desde: 190.205.140.99
+ ingreso al menu con Necro  en: 05-31-2022 01:05:38 pm desde: 190.205.140.99
+ Se cierra sesion Necro en: 05-31-2022 01:05:39 pm desde: 190.205.140.99 
+ iniciada sesion 05-31-2022 01:05:39 pm desde: 190.205.140.99
